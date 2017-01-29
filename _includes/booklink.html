@@ -1,1 +1,1 @@
-<a href="{% include sitelink.html %}index5.html#{{ include.book.link }}">{{ include.book.name }}</a>
+{% include sitelink.html ref=index5.html#{{ include.book.link }} link={{ include.book.name }} %}
