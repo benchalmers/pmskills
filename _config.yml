@@ -1,8 +1,6 @@
 theme: jekyll-theme-cayman
 title: Work In Progress
 
-sitelink : https://benchalmers.github.io/pmskills/
-bookslink : {{ site.sitelink }}
 books:
   pmdr2:
     link: pmdr2
