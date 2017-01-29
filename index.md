@@ -2,10 +2,10 @@
 
 ## Reading List
 
-The Product Manager's Desk Reference - Second Edition
-Steven Haines - How To Build Habit Forming Products
+###The Product Manager's Desk Reference - Second Edition
+Steven Haines 
 
-Hooked
+###Hooked - How To Build Habit Forming Products
 Nir Eyal With Ryan Hoover
 
 ## Plan
