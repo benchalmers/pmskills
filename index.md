@@ -11,3 +11,5 @@ Steven Haines
 Nir Eyal With Ryan Hoover
 
 ## Plan
+
+Testing: {{ site.books.pmdr2 }}
