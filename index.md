@@ -12,4 +12,4 @@ Nir Eyal With Ryan Hoover
 
 ## Plan
 
-Testing: {{ include booklink.html book=site.books.pmdr2 }}
+Testing: {{ include booklink.html }}
