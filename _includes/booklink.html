@@ -1,1 +1,2 @@
-{% include sitelink.html ref=index6.html#{{ include.book.link }} link={{ include.book.name }} %}
+{% capture fullref%}index7.html#{{ include.book.link }} {% encapture %}
+{% include sitelink.html ref=fullref link=include.book.name %}
