@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
 title: Work In Progress
+
+sitelink : https://benchalmers.github.io/pmskills/
+bookslink : {{ site.sitelink }}
+books:
+  pmdr2 : <a href="{{ site.bookslink }}#pmdr2">The Product Managers Desk Reference - Second Edition</a>
+  hooked : <a href="{{ site.bookslink }}#hooked">Hooked - How To Build Habit Forming Products</a>
