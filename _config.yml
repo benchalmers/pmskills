@@ -1,10 +1,4 @@
 theme: jekyll-theme-cayman
 title: Work In Progress
-
-books:
-  pmdr2:
-    link: pmdr2
-    name: The Product Managers Desk Reference - Second Edition
-  hooked:
-    link: hooked
-    name: Hooked - How To Build Habit Forming Products
+collections:
+    - books

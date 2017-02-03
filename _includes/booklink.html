@@ -1,2 +1,7 @@
-{% capture fullref %}index.html#{{ include.book.link }} {% endcapture %}
-{% include sitelink.html ref=fullref link=include.book.name %}
+{% for book in site.books %}
+  {% if book.link == include.ref %}
+    {% capture fullref %}/index.html#{{ book.link }} {% endcapture %}
+    {% assign fullbook = book %}
+  {% endif %}
+{% endfor %}
+{% include sitelink.html ref=fullref link=fullbook.name %}
